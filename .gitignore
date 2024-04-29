@@ -1,3 +1,6 @@
+# So I don't upload 500 images to my repo
+images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
