@@ -7,3 +7,4 @@
 - https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/
 - https://github.com/lilianweng/multi-armed-bandit
 - https://github.com/kfoofw/bandit_simulations/blob/master/python/multiarmed_bandits/notebooks/analysis.ipynb
+- https://link.springer.com/article/10.1023/A:1013689704352
